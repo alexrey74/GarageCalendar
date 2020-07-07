@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GarageCalendar</string>
+    <string name="txtDate">Set the date</string>
+    <string name="login">Login</string>
+    <string name="connexion">Connexion</string>
+    <string name="add_slot">Ajouter un créneau</string>
+</resources>
